@@ -1,0 +1,1 @@
+**API em Nodejs contento os métodos GET, POST, PUT  e DELETE.** 
